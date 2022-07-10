@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=lightfilegui
+Exec=lightfilegui
+Icon=app.lf.lfgui
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

@@ -1,0 +1,7 @@
+data/app.lf.lfgui.desktop.in
+data/app.lf.lfgui.appdata.xml.in
+data/app.lf.lfgui.gschema.xml
+src/window.ui
+src/main.py
+src/window.py
+
